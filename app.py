@@ -4,8 +4,6 @@ from query import get_answer
 import tempfile
 import os
 
-
-
 st.title("📄 Chat With Your PDF")
 
 # PDF Upload Section
