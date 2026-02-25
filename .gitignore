@@ -1,0 +1,13 @@
+.env
+__pycache__/
+chroma_db/
+venv/
+Lib/
+Scripts/
+Include/
+etc/
+share/
+pyvenv.cfg
+Help.txt
+prompt.pdf
+README.md
